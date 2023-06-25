@@ -41,4 +41,5 @@ function removeDuplicates(array: number[]){
  return array;
 }
 
+console.log(findMultiples3and5(10), 'should be ', 23)
 export default findMultiples3and5;
